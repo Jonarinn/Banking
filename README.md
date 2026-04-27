@@ -2,7 +2,8 @@
 
 Simple banking app with DB connection.
 
-## Learing outcomes: 
+## Learning outcomes: 
 * Java
 * Medium size project development
 * DB connection
+* DB modeling
